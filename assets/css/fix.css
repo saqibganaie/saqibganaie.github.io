@@ -1,0 +1,10 @@
+/* Disable ion-icon alt text */
+ion-icon {
+    pointer-events: none;
+}
+
+.resume-redirect-icon {
+    display: inline-block;
+    color: white;
+    margin-left: 5px;
+}
